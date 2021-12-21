@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kencocaceo. I'm from Viet Nam.
+- 👋 **I'm a father of two, developer in Japanese company and a freelancer.**
 - 👀 I’m interested in listening music, coding.
 - 🌱 I’m currently learning some new technologies, languages.
 
